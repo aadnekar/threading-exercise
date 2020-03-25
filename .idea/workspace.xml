@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d346141c-a336-460e-a27f-fb2c71404ff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIsaPelFp4vyaeVkKYa2lAGDeE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.SushiBar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Main" />
+      <module name="threading-exercise" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SushiBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.SushiBar" />
+      <module name="threading-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Typer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Typer" />
+      <module name="example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Typer" />
+      <item itemvalue="Application.SushiBar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SushiBar" />
+        <item itemvalue="Application.Typer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d346141c-a336-460e-a27f-fb2c71404ff9" name="Default Changelist" comment="" />
+      <created>1584538005795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584538005795</updated>
+      <workItem from="1584538009605" duration="7432000" />
+      <workItem from="1584606220295" duration="14604000" />
+      <workItem from="1584688148664" duration="413000" />
+      <workItem from="1584707019731" duration="653000" />
+      <workItem from="1585121737720" duration="6151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="337" key="GridCell.Tab.0.bottom" timestamp="1585127967609">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="337" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585127967609" />
+    <state width="2517" height="337" key="GridCell.Tab.0.center" timestamp="1585127967609">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="337" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585127967609" />
+    <state width="2517" height="337" key="GridCell.Tab.0.left" timestamp="1585127967609">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="337" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585127967609" />
+    <state width="2517" height="337" key="GridCell.Tab.0.right" timestamp="1585127967609">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="337" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585127967609" />
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1584707031934">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="343" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584707031934" />
+    <state x="22" y="324" key="new project wizard" timestamp="1584707070918">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="22" y="324" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1584707070918" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1585123808454">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1585123808454" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/SynchronizedInteger.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/exercise/SynchronizedInteger.java</url>
+          <line>8</line>
+          <properties class="exercise.SynchronizedInteger" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
